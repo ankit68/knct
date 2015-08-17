@@ -4,6 +4,26 @@
                 "name": "Newly Added",
                 "wallpaper": [{
                         "author": "Ankit Anand",
+                        "url": "https://googledrive.com/host/0B1iXjlfkhRKFTU5PSWRETTRkZlk",
+                        "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFSFBXMXA3LVdlNHM",
+                        "name": "Crystal-33"
+                    }, {
+                        "author": "Ankit Anand",
+                        "url": "https://googledrive.com/host/0B1iXjlfkhRKFLTRhUlVlYjAtR3M",
+                        "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFYVVvWUFndlJRQlU",
+                        "name": "Marshmallow"
+                    }, {
+                        "author": "Ankit Anand",
+                        "url": "https://googledrive.com/host/0B1iXjlfkhRKFZ1JaVlhZUEdZTzg",
+                        "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFY0d4dkJCZDJKTUE",
+                        "name": "Marshmallow Flat"
+                    }, {
+                        "author": "Ankit Anand",
+                        "url": "https://googledrive.com/host/0B1iXjlfkhRKFMW0zVWhtaUxELXM",
+                        "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFVkl2V0JuNTladEU",
+                        "name": "Landscape 4"
+                    }, {
+                        "author": "Ankit Anand",
                         "url": "https://googledrive.com/host/0B1iXjlfkhRKFZjJHQnZDbEhLSEU",
                         "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFVDN6QnA1LWZNQ2c",
                         "name": "Hipster-1"
@@ -82,30 +102,6 @@
                         "url": "https://googledrive.com/host/0B1iXjlfkhRKFejZlakFoNWtXVzQ",
                         "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFR3BjSWhmOWxiOGc",
                         "name": "Material-433"
-                    }
-                ]
-            }, {
-                "name": "Android Marshmallow",
-                "wallpaper": [{
-                        "author": "Ankit Anand",
-                        "url": "https://googledrive.com/host/0B1iXjlfkhRKFTU5PSWRETTRkZlk",
-                        "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFSFBXMXA3LVdlNHM",
-                        "name": "Wall-1"
-                    }, {
-                        "author": "Ankit Anand",
-                        "url": "https://googledrive.com/host/0B1iXjlfkhRKFLTRhUlVlYjAtR3M",
-                        "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFYVVvWUFndlJRQlU",
-                        "name": "Wall-2"
-                    }, {
-                        "author": "Ankit Anand",
-                        "url": "https://googledrive.com/host/0B1iXjlfkhRKFZ1JaVlhZUEdZTzg",
-                        "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFY0d4dkJCZDJKTUE",
-                        "name": "Wall-3"
-                    }, {
-                        "author": "Ankit Anand",
-                        "url": "https://googledrive.com/host/0B1iXjlfkhRKFMW0zVWhtaUxELXM",
-                        "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFVkl2V0JuNTladEU",
-                        "name": "Wall-4"
                     }
                 ]
             }, {
