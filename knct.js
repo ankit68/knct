@@ -1,7 +1,7 @@
 {
 	"wallpapers" : {
 		"category" : [{
-				"name" : "Update",
+				"name" : "Update the App",
 				"wallpaper" : [{
 						"author" : "Ankit Anand",
 						"url" : "https://googledrive.com/host/0B1iXjlfkhRKFQlB6c09IU2M5SFE",
